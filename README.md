@@ -1,11 +1,5 @@
-# Stock Prediction Streamlit APP
+# A Stock Prediction web app with Streamlit
 
- A Stock Prediction web app with
-
-streamlit
-fbprophet
-yfinance
-plotly
 
 Dataset: Data is from yahoo site and was fetched using yfinance library
 
