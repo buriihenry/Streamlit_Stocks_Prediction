@@ -7,7 +7,7 @@ fbprophet
 yfinance
 plotly
 
-Dataset: fethed the Data from yahoo using yfinance library
+Dataset: Data is from yahoo site and was fetched using yfinance library
 
 Choose from drop down Menu 
 
@@ -21,11 +21,9 @@ MSTF- Microsoft
 
 BTC-GBP
 
-Considered "2015-01-01" to the current date
+Worked with data starting "2015-01-01" to the current date
 
-Used Facebook probhet to create a predictive model! 
-You can play around with the slider and choose you select for how many years you would like to predict the stock trend prediction
-Have a go!
+Used Facebook prophet to create a predictive model!
 
-Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. 
+Facebook Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. 
 It works best with time series that have strong seasonal effects and several seasons of historical data
