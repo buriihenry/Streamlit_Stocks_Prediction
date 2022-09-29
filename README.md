@@ -7,9 +7,9 @@ Choose from drop down Menu
 
 "AAPL","GOOG","MSTF","BTC-GBP"
 
-Aapl- Apple
+AAPL- Apple
 
-GooG- Google
+GOOG- Google
 
 MSTF- Microsoft
 
